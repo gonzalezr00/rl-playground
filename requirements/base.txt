@@ -1,0 +1,11 @@
+# Core
+jupyter
+pandas
+matplotlib
+
+# Extras
+numpy
+ipykernel
+ipywidgets
+tqdm
+
