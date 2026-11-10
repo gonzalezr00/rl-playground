@@ -8,4 +8,9 @@ numpy
 ipykernel
 ipywidgets
 tqdm
+seaborn
 
+gym
+gymnasium
+ptan
+gymnasium[classic-control]
